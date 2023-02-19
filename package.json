@@ -1,9 +1,12 @@
 {
   "name": "simple-morgan-res-body",
   "author": "frani <franinnocenti@gmail.com>",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "simpliest and transparent way to add res-body to you morgan logger",
   "main": "index.js",
+  "scripts": {
+    "test": "echo 'done!'"
+  },
   "keywords": [
     "morgan",
     "response",
