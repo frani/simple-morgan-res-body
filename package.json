@@ -1,0 +1,22 @@
+{
+  "name": "simple-morgan-res-body",
+  "author": "frani <franinnocenti@gmail.com>",
+  "version": "1.0.0",
+  "description": "simpliest and transparent way to add res-body to you morgan logger",
+  "main": "index.js",
+  "keywords": [
+    "morgan",
+    "response",
+    "body"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frani/simple-morgan-res-body.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frani/simple-morgan-res-body/issues"
+  },
+  "homepage": "https://github.com/frani/simple-morgan-res-body#readme",
+  "license": "MIT",
+  "private": false
+}
